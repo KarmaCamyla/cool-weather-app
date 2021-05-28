@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-family: roboto bold;
+}
+
+h2 {
+  text-align: center;
+  font-family: roboto;
+}
+
+h3 {
+  text-align: center;
+  font-family: roboto;
+}
+.row {
+  text-align: center;
+  font-family: roboto bold;
+}
+
+body {
+  margin: 100px 50px;
+  background-image: url(../images/partlycloudy.jpg);
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 0px;
+  displays: flex;
+  flex-direction: column;
+  background: purple;
+  color: white;
+  border-radius: 40px;
+  max-width: 800px;
+  min-width: 400px;
+  min-height: 60vh;
+}
+
+form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+input {
+  text-align: center;
+}
